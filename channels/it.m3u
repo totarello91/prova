@@ -441,8 +441,8 @@ http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8
 https://dcunilive28-lh.akamaihd.net/i/dclive_1@531020/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://i.imgur.com/NUCVVx8.png" group-title="Music",Zerouno TV
 https://dcunilive55-lh.akamaihd.net/i/dclive_1@761470/master.m3u8?fluxustv.m3u8
-#EXTINF:0,Longobucco 1
+#EXTM3U
+#EXTINF:-1,Longobucco 1
 rtmp://194.146.167.3:1935/wcl/1
-#EXTINF:0,Longobucco 2
+#EXTINF:-1,Longobucco 2
 http://194.146.167.3:81/wcx/lon1h.m3u8
-
