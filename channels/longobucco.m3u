@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,Longobucco 1
+rtmp://194.146.167.3:1935/wcl/1
+#EXTINF:0,Longobucco 2
+http://194.146.167.3:81/wcx/lon1h.m3u8
