@@ -109,6 +109,10 @@ https://59ef7ad665d1d.streamlock.net:1443/eslife/_definst_/eslife/playlist.m3u8?
 http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://www.lactv.it/wp-content/uploads/2017/12/lactv-new-2.png" group-title="",LaC TV
 http://StreamCdnC3.mainstreaming.tv:80/cdn/live/100197/SOrBDPy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Longobucco 1
+rtmp://194.146.167.3:1935/wcl/1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Longobucco 2
+http://194.146.167.3:81/wcx/lon1h.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://i.imgur.com/TzJYWRX.jpg" group-title="",Lucania TV
 https://59d7d6f47d7fc.streamlock.net/lucaniatv/lucaniatv/playlist.m3u8
 #EXTINF:-1 tvg-id="M2O IT" tvg-name="M2O IT" tvg-language="Italian" tvg-logo="" group-title="Music",m2o TV
@@ -441,8 +445,3 @@ http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8
 https://dcunilive28-lh.akamaihd.net/i/dclive_1@531020/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://i.imgur.com/NUCVVx8.png" group-title="Music",Zerouno TV
 https://dcunilive55-lh.akamaihd.net/i/dclive_1@761470/master.m3u8?fluxustv.m3u8
-#EXTM3U
-#EXTINF:-1,Longobucco 1
-rtmp://194.146.167.3:1935/wcl/1
-#EXTINF:-1,Longobucco 2
-http://194.146.167.3:81/wcx/lon1h.m3u8
